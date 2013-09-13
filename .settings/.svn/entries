@@ -1,0 +1,41 @@
+8
+
+dir
+37
+http://polycliniqueborinage.dyndns.org/svn/polydev/login/.settings
+http://polycliniqueborinage.dyndns.org/svn/polydev
+
+
+
+2008-06-23T20:14:32.774588Z
+37
+targoo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+282f8ec6-6b70-4122-b4cc-51e5379b8f2c
+
+org.eclipse.php.core.projectOptions.prefs
+file
+
+
+
+
+2008-06-23T20:14:32.000000Z
+5a5978720dfcc5912f3d0186000359d7
+2008-06-23T20:14:32.774588Z
+37
+targoo
+has-props
+
